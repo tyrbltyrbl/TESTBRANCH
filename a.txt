@@ -1,2 +1,2 @@
 hello , i am from testabranche,this is my test!
-hello, this is from master`s init test!
+hello, this is from master`s init test!   yeah~ it`s me too, i want to test merge conflict(from dev)
