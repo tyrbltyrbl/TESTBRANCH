@@ -1,1 +1,2 @@
 hello , i am from testabranche,this is my test!
+hello, this is from master`s init test!
